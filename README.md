@@ -7,7 +7,7 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 ---
 
 - 🔭 I’m currently working on https://github.com/naimo84/node-red-contrib-ical-events
-- 🌱 I’m currently learning ArgoCD and Tekton 
+- 🌱 I’m currently learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
 - 📫 How to reach me: https://github.com/naimo84/naimo84/discussions/categories/guestbook
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
@@ -18,7 +18,7 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="Argo Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="JavaScript Logo" width="50" height="50"/>   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="InfluxDB Logo" width="50" height="50"/> 
 
 ---
 
