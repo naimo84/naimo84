@@ -6,7 +6,7 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 
 ---
 
-- 🔭 I’m currently working on https://github.com/naimo84/node-red-contrib-ical-events
+- 🔭 I’m currently working on https://github.com/naimo84/awesome-nodered
 - 🌱 I’m currently learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
 - 📫 How to reach me: https://github.com/naimo84/naimo84/discussions/categories/guestbook
 <!-- - 👯 I’m looking to collaborate on ...
