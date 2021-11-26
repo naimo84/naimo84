@@ -26,4 +26,4 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
