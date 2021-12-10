@@ -2,9 +2,6 @@
 
 My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and Kubernetes. 
 
-![GitHub followers](https://img.shields.io/github/followers/naimo84?label=follow&style=social)
-
----
 
 - 🔭 I’m currently working on https://github.com/naimo84/awesome-nodered
 - 🌱 I’m currently learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
@@ -15,7 +12,7 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 - 💬 Ask me about 
 ...-->
 
----
+
 
 ## 🧰 Toolbox
 
@@ -27,10 +24,9 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 <a href="https://www.influxdata.com/"><img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="InfluxDB Logo" width="50" height="50"/> </a> 
 <a href="https://www.proxmox.com/"></a>
 
----
+
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84&hide=java,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
