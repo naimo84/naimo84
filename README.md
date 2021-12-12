@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Benjamin 👋 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width=400 align=right>
 
-My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and Kubernetes. 
+I'm a DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and Kubernetes. 
 
 
 - 🔭 I’m currently working on https://github.com/naimo84/awesome-nodered
@@ -28,5 +28,5 @@ My name is Benjamin and I'm DevOps-engineer, NodeRED node developer and fall in 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84&hide=java,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84&hide=java,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
