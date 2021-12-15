@@ -15,14 +15,16 @@ I'm a DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and 
 
 
 ## 🧰 Toolbox
-
+<a href="https://nodejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs Logo" width="50" height="50"/></a> 
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript Logo" width="50" height="50"/></a> 
 <a href="https://nodered.org"><img src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" alt="JavaScript Logo" width="50" height="50"/></a> 
 <a href="https://argoproj.github.io/cd/"><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="Argo Logo" width="50" height="50"/> </a> 
 <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="JavaScript Logo" width="50" height="50"/></a> 
 <a href="https://ubuntu.com/download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="JavaScript Logo" width="50" height="50"/></a> 
 <a href="https://kubernetes.io"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="JavaScript Logo" width="50" height="50"/></a> 
 <a href="https://www.influxdata.com/"><img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="InfluxDB Logo" width="50" height="50"/> </a> 
-<a href="https://www.proxmox.com/"></a>
+<a href="https://www.grafana.com/"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana Logo" width="50" height="50"/> </a> 
+<a href="https://www.proxmox.com/"><img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" alt="grafana Logo" width="50" height="50"/></a>
 
 
 
