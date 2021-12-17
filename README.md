@@ -1,4 +1,4 @@
-## Hi there, I'm Benjamin 👋 <img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=400 align=right>
+## Hi there, I'm Benjamin 👋 <img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=350 align=right>
 
 I'm a DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and Kubernetes. 
 
