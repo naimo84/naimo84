@@ -28,7 +28,7 @@ I'm a DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and 
 
 
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
