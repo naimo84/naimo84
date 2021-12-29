@@ -1,11 +1,11 @@
 ## Hi there, I'm Benjamin 👋 <img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=300 align=right>
 
-I'm a DevOps-engineer, NodeRED node developer and fall in ❤️ with Linux and Kubernetes. 
-
+I'm a DevOps-engineer at work, a Node-RED node developer at home and addicted to Linux and Kubernetes. 
 
 - 🔭 I’m currently working on https://github.com/naimo84/awesome-nodered
 - 🌱 I’m currently learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
-- 📫 How to reach me: https://github.com/naimo84/naimo84/discussions/categories/guestbook
+- 📫 How to reach me: https://github.com/naimo84/naimo84/discussions/categories/guestbook  
+     If you have problems with an application, please open an issue 😉
 - 🤔 I’m looking for help with argocd REST api
 <!-- - 👯 I’m looking to collaborate on ...
 
