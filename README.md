@@ -33,3 +33,4 @@ I'm a DevOps-engineer at work, a Node-RED node developer at home and addicted to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimo84)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimo84&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=naimo84.visitor-badge)
