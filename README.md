@@ -21,7 +21,6 @@ const naimo84 = {
 
 console.log(naimo84);
 ```
-<img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=250 align=right>
 
 ## ✍️ Current projects
 
