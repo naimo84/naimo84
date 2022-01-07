@@ -4,7 +4,7 @@ I'm a DevOps-engineer at work, a Node-RED node developer at home and addicted to
 
 - 🔭 Working on [node-red-contrib-ical-events](https://github.com/naimo84/node-red-contrib-ical-events) and [awesome-nodered](https://github.com/naimo84/awesome-nodered) 
 - 🌱 Learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
-- 📫 How to reach me: https://github.com/naimo84/naimo84/discussions/categories/guestbook  
+- 📫 How to reach me: [guestbook](https://github.com/naimo84/naimo84/discussions/categories/guestbook)  
      If you have problems with an application, please open an issue 😉
 - 🤔 I’m looking for help with argocd REST api, in particular updating an existing application
 - 👯 I’m looking to collaborate on Node-RED nodes
