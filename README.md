@@ -14,8 +14,8 @@ const naimo84 = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["proxmox", "Node-RED"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    architecture: ["Serverless Architecture"],
+    currentFocus: "Node-RED",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
