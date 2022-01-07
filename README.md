@@ -1,21 +1,38 @@
-## Hi there, I'm Benjamin 👋 <img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=300 align=right>
+# Hi there, I'm Benjamin 👋 
 
-I'm a DevOps-engineer at work, a Node-RED node developer at home and addicted to Linux and Kubernetes. 
+```javascript
+const naimo84 = {
+    pronouns: "He" | "Him",
+    work: "DevOp",
+    home: "Node-RED",
+    code: ["Javascript",  "Java", "C#"],
+    askMeAbout: ["kubernetes"],
+    technologies: {
+        backEnd: ["Node", "Java"],
+        frontEnd: false,             
+        devOps: ["kubernetes", "argo-cd", "Docker🐳", "traefik", "Nginx", "grafana", "influx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["proxmox", "Node-RED"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Ios Mobile App Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 
-- 🔭 Working on [node-red-contrib-ical-events](https://github.com/naimo84/node-red-contrib-ical-events) and [awesome-nodered](https://github.com/naimo84/awesome-nodered) 
-- 🌱 Learning ArgoCD, Argo Workflow and Monitoring with telegraf, influxdb2 und grafana
+console.log(naimo84);
+```
+<img src="https://github.com/naimo84/naimo84/raw/main/code.gif?raw=true" width=250 align=right>
+
+## ✍️ Current projects
+
+- 🔭 Working on:
+    - [node-red-contrib-ical-events](https://github.com/naimo84/node-red-contrib-ical-events) 
+    - [awesome-nodered](https://github.com/naimo84/awesome-nodered) 
 - 📫 How to reach me: [guestbook](https://github.com/naimo84/naimo84/discussions/categories/guestbook)  
-     If you have problems with an application, please open an issue 😉
-- 🤔 I’m looking for help with argocd REST api, in particular updating an existing application
-- 👯 I’m looking to collaborate on Node-RED nodes
-
-<!--
-- 💬 Ask me about 
-...-->
-
 
 
 ## 🧰 Toolbox
+
 <a href="https://nodejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs Logo" width="50" height="50"/></a> 
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript Logo" width="50" height="50"/></a> 
 <a href="https://nodered.org"><img src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" alt="JavaScript Logo" width="50" height="50"/></a> 
@@ -26,8 +43,6 @@ I'm a DevOps-engineer at work, a Node-RED node developer at home and addicted to
 <a href="https://www.influxdata.com/"><img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="InfluxDB Logo" width="50" height="50"/> </a> 
 <a href="https://www.grafana.com/"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana Logo" width="50" height="50"/> </a> 
 <a href="https://www.proxmox.com/"><img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" alt="grafana Logo" width="50" height="50"/></a>
-
-
 
 ## &#x1f4c8; Stats
 
