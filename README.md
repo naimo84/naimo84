@@ -5,10 +5,10 @@ const naimo84 = {
     pronouns: "He" | "Him",
     work: "DevOp",
     home: "Node-RED",
-    code: ["Javascript",  "Java", "C#"],
+    code: ["Javascript", "Java", "C#"],
     askMeAbout: ["kubernetes"],
     technologies: {
-        backEnd: ["Node", "Java"],
+        backEnd: ["Node", "Spring Boot"],
         frontEnd: false,             
         devOps: ["kubernetes", "argo-cd", "Docker🐳", "traefik", "Nginx", "grafana", "influx"],
         databases: ["mongo", "MySql", "sqlite"],
