@@ -2,7 +2,6 @@
 
 ```javascript
 const naimo84 = {
-    pronouns: "He" | "Him",
     work: "DevOp",
     home: "Node-RED",
     code: ["Javascript", "Java", "C#"],
