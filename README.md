@@ -9,7 +9,7 @@ const naimo84 = {
     technologies: {
         backEnd: ["Node", "Spring Boot"],
         frontEnd: false,             
-        devOps: ["kubernetes", "argo-cd", "Docker🐳", "traefik", "Nginx", "grafana", "influx"],
+        devOps: ["kubernetes", "ELK stack", "argo-cd", "Docker🐳", "traefik", "Nginx", "grafana", "influx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["proxmox", "Node-RED"]
     },
