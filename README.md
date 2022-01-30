@@ -45,5 +45,5 @@ console.log(naimo84);
 ## &#x1f4c8; Stats
 
 [![Top Langs](https://github-readme-stats-naimo84.vercel.app/api/top-langs/?username=naimo84&hide=html,Visual%20Basic%20.NET)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats-naimo84.vercel.app/api?username=naimo84&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naimo84's GitHub stats](https://github-readme-stats-naimo84.vercel.app/api?username=naimo84&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=naimo84.visitor-badge)
