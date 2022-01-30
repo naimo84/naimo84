@@ -18,7 +18,7 @@ const naimo84 = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
-console.log(naimo84);
+console.info(naimo84);
 ```
 
 ## ✍️ Current projects
