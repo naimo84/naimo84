@@ -21,7 +21,7 @@ const naimo84 = {
 console.info(naimo84);
 ```
 
-## ✍️ Current projects
+## Current projects
 
 - 🔭 Working on:
     - [node-red-contrib-ical-events](https://github.com/naimo84/node-red-contrib-ical-events) 
@@ -29,7 +29,7 @@ console.info(naimo84);
 - 📫 How to reach me: [guestbook](https://github.com/naimo84/naimo84/discussions/categories/guestbook)  
 
 
-## 🧰 Toolbox
+## Toolbox
 
 <a href="https://nodejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs Logo" width="50" height="50"/></a> 
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript Logo" width="50" height="50"/></a> 
@@ -42,7 +42,7 @@ console.info(naimo84);
 <a href="https://www.grafana.com/"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana Logo" width="50" height="50"/> </a> 
 <a href="https://www.proxmox.com/"><img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" alt="grafana Logo" width="50" height="50"/></a>
 
-## &#x1f4c8; Stats
+## Stats
 
 [![Top Langs](https://github-readme-stats-naimo84.vercel.app/api/top-langs/?username=naimo84&hide=html,Visual%20Basic%20.NET)](https://github.com/anuraghazra/github-readme-stats)
 [![naimo84's GitHub stats](https://github-readme-stats-naimo84.vercel.app/api?username=naimo84&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
