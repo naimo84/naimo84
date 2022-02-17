@@ -26,6 +26,7 @@ console.info(naimo84);
 - 🔭 Working on:
     - [node-red-contrib-ical-events](https://github.com/naimo84/node-red-contrib-ical-events) 
     - [awesome-nodered](https://github.com/naimo84/awesome-nodered) 
+    - [container-registry-sync](https://github.com/naimo84/container-registry-sync) 
 - 📫 How to reach me: [guestbook](https://github.com/naimo84/naimo84/discussions/categories/guestbook)  
 
 
